@@ -17,7 +17,7 @@ The dataset contains:
 #### 2. Feature Correlation
 - Explored feature-to-feature relationships.
 - Plotted 2-D scatter plots.
-- Computed Pearson’s correlation coefficient between features to identify correlated attributes.
+- Computed Pearson's correlation coefficient between features to identify correlated attributes.
 
 #### 3. Linear Regression Implementation
 - Implemented linear regression using ordinary least squares (OLS).
@@ -27,6 +27,8 @@ The dataset contains:
 #### 4. Feature Combination Experimentation
 - Experimented with different feature combinations based on findings from data exploration and feature correlation.
 - Reported results for each combination tested.
+- The most predictive feature of Combat Points is 'attack_value' since it has maximum correlation coefficient=0.908 with 'combat_point' followed by 'defense_value'.
+[Scatter Plot attack_value v/s combat_point](images/1.png)
 
 #### 5. Mathematical Derivation
 - Detailed the mathematical derivation for implementing and training the linear regression model with OLS solution.
