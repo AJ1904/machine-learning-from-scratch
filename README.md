@@ -1035,7 +1035,7 @@ A skewed distribution with 2 peaks indicates that the log-likelihood values migh
 Overall, this distribution pattern provides valuable insights into how well the Gaussian mixture model captures the underlying structure of the data. It suggests potential clusters or groups and identifies outliers or instances where the model might be less accurate.
 
 
-## References Used
+## Acknowledgements
 - https://arxiv.org/pdf/2105.03404v2.pdf
 - https://en.wikipedia.org/wiki/Feedforward_neural_network
 - https://wikidocs.net/197813
@@ -1055,3 +1055,5 @@ Overall, this distribution pattern provides valuable insights into how well the 
 - [Wikipedia - Pearson's Correlation Coefficient](https://en.wikipedia.org/wiki/Pearson_correlation_coefficient)
 - https://scikit-learn.org/stable/modules/generated/sklearn.cluster.k_means.html
 - https://towardsdatascience.com/gaussian-mixture-models-d13a5e915c8e
+- Professor Bobak Mortazavi and Teaching Assistant Zhale Nowroozilarki: For guidance, support, and valuable insights throughout the class.
+
